@@ -1,0 +1,10 @@
+COMPAÑIA EL PARCIAL S.A.
+<Nombre> <Apellido>
+Ciudad
+
+La compañia se encuentra en proceso de actualizacion de datos, por este motivo solicitamos
+informacion si el celular número <celular> corresponde a su numero de telefono vigente.
+
+Cordial saludo
+
+La gerencia
